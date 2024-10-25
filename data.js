@@ -1,5 +1,6 @@
 export const bio = [
-  "Hello! I'm Manjunath K P, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
+  "I code my boredom away, one line at a time!",
+  "I wasn't just another kid addicted to gadgets and phones. No, there was something different. It wasn't just the games that amused me as a kid; it was the small things. Like the lock screen animation, the swipe-down for the notification centre, or the pinch out to zoom. Ever since I watched the iPhone 4 launch, I'v been captivated by the seamless integration of hardware and software. I followed every keynote, every WWDC, absorbing the magic behind these innovations. This fascination evolved into a deep passion for solving complex problems that require thoughtful analysis and creativity. I love turning those solutions into code, transforming abstract ideas into tangible, impactful applications.",
   "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
   "Thanks for visiting!",
 ];
